@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+checkpoints/
+*.pt
+*.bin
+
+data/ace2005/
+data/fdu-mtl/
+
+.DS_Store
+*.ipynb_checkpoints
+.env
