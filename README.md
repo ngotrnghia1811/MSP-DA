@@ -4,7 +4,9 @@ This repository contains the code for:
 
 **Unsupervised Domain Adaptation for Text Classification via Meta Self-Paced Learning** \
 *Nghia Trung Ngo, Linh Ngo Van, Thien Huu Nguyen* \
-ACL-IJCNLP 2021
+COLING 2022
+
+[Paper](https://aclanthology.org/2022.coling-1.420/)
 
 ## Method
 
@@ -127,11 +129,12 @@ python evaluate.py \
 ## Citation
 
 ```bibtex
-@inproceedings{ngo-etal-2021-unsupervised,
+@inproceedings{ngo-etal-2022-unsupervised,
     title={Unsupervised Domain Adaptation for Text Classification via Meta Self-Paced Learning},
     author={Ngo, Nghia Trung and Van, Linh Ngo and Nguyen, Thien Huu},
-    booktitle={Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},
-    year={2021},
+    booktitle={Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)},
+    year={2022},
+    url={https://aclanthology.org/2022.coling-1.420/},
 }
 ```
 
